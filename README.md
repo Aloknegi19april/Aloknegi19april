@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Alok Negi
-- 👀 I’m interested in Full stack development
-- 🌱 I’m currently learning Angular 
+- 👀 Full stack developer 
 - 💞️ I’m looking to collaborate on Any web based projects
 - 📫 Conatat me @ work.aloknegi@gmail.com
 
